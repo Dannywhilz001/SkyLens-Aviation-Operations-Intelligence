@@ -1,5 +1,15 @@
 # SkyLens — Aviation Operations Intelligence
 
+<p align="center">
+  <a href="https://skylens-aviation-operations-intelligence-djdmnli8t5wudvjog93ks.streamlit.app/">
+    <strong>🚀 Launch the Live SkyLens Application</strong>
+  </a>
+</p>
+
+---
+
+SkyLens is an aviation analytics project that transforms flight operational data into structured insights through interactive dashboards, analytical processing and data validation.
+
 SkyLens is an aviation analytics project that transforms flight operational data into structured insights through interactive dashboards, analytical processing and data validation.
 
 The project currently contains two complementary implementations:
