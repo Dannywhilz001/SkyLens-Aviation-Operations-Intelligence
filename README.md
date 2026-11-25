@@ -339,10 +339,13 @@ SkyLens-Aviation-Operations-Intelligence/
 │   └── analytical_summary.md
 │
 └── src/
-    ├── Data transformation scripts
-    ├── Analytical processing scripts
-    ├── Validation scripts
-    └── Investigation scripts
+    ├── transform_flights.py
+    ├── build_database.py
+    ├── export_analytical_outputs.py
+    ├── generate_analytical_summary.py
+    ├── analyze_*.py
+    ├── validate_*.py
+    └── investigate_*.py
 ```
 
 The repository contains the Power BI dashboard, interactive analytical application, supporting data-processing scripts, documentation and processed analytical outputs. Large raw source files and generated database files are excluded from version control.
