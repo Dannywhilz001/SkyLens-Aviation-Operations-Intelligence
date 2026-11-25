@@ -313,8 +313,10 @@ Independent validation scripts compare exported analytical results against separ
 # 3. Repository Structure
 
 ```text
+```text
 SkyLens-Aviation-Operations-Intelligence/
 │
+├── SkyLens_Aviation_Operations_Intelligence.pbix
 ├── app.py
 ├── requirements.txt
 ├── README.md
@@ -324,6 +326,12 @@ SkyLens-Aviation-Operations-Intelligence/
 │   ├── raw/
 │   ├── processed/
 │   │   └── analytics/
+│   │       ├── airport_performance.csv
+│   │       ├── carrier_performance.csv
+│   │       ├── daily_performance.csv
+│   │       ├── delay_cause_contributions.csv
+│   │       ├── overall_performance.csv
+│   │       └── route_performance.csv
 │   └── database/
 │
 ├── docs/
@@ -331,21 +339,12 @@ SkyLens-Aviation-Operations-Intelligence/
 │   ├── PRODUCT_BRIEF.md
 │   └── analytical_summary.md
 │
-├── src/
-│   ├── transform_flights.py
-│   ├── build_database.py
-│   ├── export_analytical_outputs.py
-│   ├── generate_analytical_summary.py
-│   ├── analyze_carrier_performance.py
-│   ├── analyze_airport_performance.py
-│   ├── analyze_route_performance.py
-│   ├── analyze_daily_performance.py
-│   └── validation and investigation scripts
-│
-└── images/
-    └── Power BI dashboard screenshots
+└── src/
+    ├── Data transformation scripts
+    ├── Analytical processing scripts
+    ├── Validation scripts
+    └── Investigation scripts
 ```
-
 The repository contains the analytical application, supporting data-processing scripts, documentation and dashboard assets. Large raw source files and generated database files are excluded from version control.
 
 ---
