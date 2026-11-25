@@ -1,0 +1,21 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.streamlit/secrets.toml
+.DS_Store
+
+# Raw source data
+data/raw/*
+!data/raw/.gitkeep
+
+# Processed data - keep dashboard analytics CSVs only
+data/processed/*
+!data/processed/.gitkeep
+!data/processed/analytics/
+data/processed/analytics/*
+!data/processed/analytics/*.csv
+
+# Database files
+data/database/*
+!data/database/.gitkeep

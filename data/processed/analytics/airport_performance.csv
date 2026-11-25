@@ -1,0 +1,126 @@
+airport,city,evaluated_arrivals,delayed_arrivals,delay_rate_pct,avg_delay_intensity_minutes
+ASE,"Aspen, CO",962,327.0,33.99,99.31
+SFB,"Sanford, FL",783,237.0,30.27,82.96
+PGD,"Punta Gorda, FL",704,210.0,29.83,73.86
+PBI,"West Palm Beach/Palm Beach, FL",2886,838.0,29.04,59.9
+EGE,"Eagle, CO",718,203.0,28.27,57.17
+SJU,"San Juan, PR",3128,839.0,26.82,62.83
+BZN,"Bozeman, MT",761,204.0,26.81,56.64
+COS,"Colorado Springs, CO",961,257.0,26.74,71.34
+SYR,"Syracuse, NY",874,224.0,25.63,60.88
+HSV,"Huntsville, AL",629,160.0,25.44,70.57
+TYS,"Knoxville, TN",922,233.0,25.27,74.03
+DAY,"Dayton, OH",561,140.0,24.96,77.88
+SGF,"Springfield, MO",631,157.0,24.88,63.52
+SBN,"South Bend, IN",609,151.0,24.79,88.17
+ROC,"Rochester, NY",840,203.0,24.17,64.74
+BUF,"Buffalo, NY",1349,325.0,24.09,54.87
+ANC,"Anchorage, AK",1162,279.0,24.01,53.74
+EYW,"Key West, FL",739,177.0,23.95,62.56
+FAR,"Fargo, ND",603,144.0,23.88,62.23
+FLL,"Fort Lauderdale, FL",7698,1787.0,23.21,61.0
+PVD,"Providence, RI",1076,248.0,23.05,57.67
+ATW,"Appleton, WI",553,126.0,22.78,69.34
+JAC,"Jackson, WY",572,128.0,22.38,70.8
+CVG,"Cincinnati, OH",2296,512.0,22.3,76.67
+BTV,"Burlington, VT",516,114.0,22.09,52.44
+TPA,"Tampa, FL",6323,1391.0,22.0,58.89
+RSW,"Fort Myers, FL",3487,766.0,21.97,57.04
+DFW,"Dallas/Fort Worth, TX",23439,5135.0,21.91,91.92
+ALB,"Albany, NY",858,188.0,21.91,64.47
+MSN,"Madison, WI",945,206.0,21.8,78.97
+MIA,"Miami, FL",9953,2164.0,21.74,71.98
+TUL,"Tulsa, OK",1236,268.0,21.68,66.31
+MEM,"Memphis, TN",1460,316.0,21.64,59.88
+LGA,"New York, NY",10567,2278.0,21.56,63.9
+DCA,"Washington, DC",10637,2285.0,21.48,82.15
+SRQ,"Sarasota/Bradenton, FL",1467,315.0,21.47,63.33
+DTW,"Detroit, MI",9105,1952.0,21.44,78.91
+ICT,"Wichita, KS",742,159.0,21.43,82.06
+GSP,"Greer, SC",1050,222.0,21.14,62.58
+MKE,"Milwaukee, WI",1878,396.0,21.09,62.63
+XNA,"Fayetteville, AR",898,189.0,21.05,66.59
+AVL,"Asheville, NC",594,125.0,21.04,68.01
+BHM,"Birmingham, AL",1136,238.0,20.95,62.48
+SAT,"San Antonio, TX",2982,622.0,20.86,57.66
+OKC,"Oklahoma City, OK",1665,347.0,20.84,64.24
+IAH,"Houston, TX",8700,1807.0,20.77,67.18
+CLE,"Cleveland, OH",2855,593.0,20.77,64.38
+JAX,"Jacksonville, FL",2137,443.0,20.73,63.29
+BDL,"Hartford, CT",1739,360.0,20.7,63.65
+PWM,"Portland, ME",532,110.0,20.68,64.04
+LIT,"Little Rock, AR",899,185.0,20.58,62.92
+HPN,"White Plains, NY",944,194.0,20.55,70.42
+SAV,"Savannah, GA",1211,247.0,20.4,72.74
+GSO,"Greensboro/High Point, NC",687,140.0,20.38,60.04
+DEN,"Denver, CO",24351,4962.0,20.38,69.0
+PNS,"Pensacola, FL",802,163.0,20.32,79.42
+PIE,"St. Petersburg, FL",650,132.0,20.31,71.3
+AZA,"Phoenix, AZ",552,112.0,20.29,84.52
+LEX,"Lexington, KY",582,117.0,20.1,70.37
+ORF,"Norfolk, VA",1374,275.0,20.01,68.44
+ATL,"Atlanta, GA",22572,4486.0,19.87,89.42
+MAF,"Midland/Odessa, TX",747,148.0,19.81,64.32
+MCO,"Orlando, FL",12807,2529.0,19.75,65.49
+FSD,"Sioux Falls, SD",543,107.0,19.71,67.21
+OMA,"Omaha, NE",1849,364.0,19.69,60.4
+PHL,"Philadelphia, PA",6492,1275.0,19.64,84.01
+GRR,"Grand Rapids, MI",1313,257.0,19.57,64.97
+CHS,"Charleston, SC",1497,292.0,19.51,63.68
+ORD,"Chicago, IL",21193,4113.0,19.41,82.09
+DSM,"Des Moines, IA",1031,200.0,19.4,65.69
+VPS,"Valparaiso, FL",526,102.0,19.39,70.28
+RIC,"Richmond, VA",1163,219.0,18.83,62.37
+LAS,"Las Vegas, NV",14806,2788.0,18.83,65.73
+EUG,"Eugene, OR",560,105.0,18.75,63.91
+CMH,"Columbus, OH",3213,602.0,18.74,59.63
+IND,"Indianapolis, IN",3345,622.0,18.59,60.41
+FAT,"Fresno, CA",917,170.0,18.54,64.17
+SAN,"San Diego, CA",7027,1301.0,18.51,59.53
+IAD,"Washington, DC",3878,718.0,18.51,68.39
+MSY,"New Orleans, LA",3793,701.0,18.48,61.6
+ELP,"El Paso, TX",1309,241.0,18.41,58.46
+AUS,"Austin, TX",5998,1104.0,18.41,68.05
+SDF,"Louisville, KY",1599,294.0,18.39,62.52
+CID,"Cedar Rapids/Iowa City, IA",691,127.0,18.38,83.09
+RDU,"Raleigh/Durham, NC",4079,730.0,17.9,66.07
+GEG,"Spokane, WA",1233,220.0,17.84,51.85
+PIT,"Pittsburgh, PA",3000,533.0,17.77,63.22
+JFK,"New York, NY",8160,1444.0,17.7,75.75
+EWR,"Newark, NJ",9907,1746.0,17.62,66.49
+BOI,"Boise, ID",1828,320.0,17.51,49.88
+SEA,"Seattle, WA",11729,2015.0,17.18,62.0
+BNA,"Nashville, TN",7080,1211.0,17.1,66.67
+MCI,"Kansas City, MO",3188,538.0,16.88,62.66
+TUS,"Tucson, AZ",1839,308.0,16.75,54.85
+MDW,"Chicago, IL",5067,847.0,16.72,53.49
+STL,"St. Louis, MO",4383,732.0,16.7,61.02
+BOS,"Boston, MA",10372,1718.0,16.56,73.6
+ABQ,"Albuquerque, NM",1761,288.0,16.35,54.6
+CLT,"Charlotte, NC",16093,2630.0,16.34,86.18
+MSP,"Minneapolis, MN",8376,1350.0,16.12,78.71
+MYR,"Myrtle Beach, SC",685,110.0,16.06,57.56
+HOU,"Houston, TX",3841,609.0,15.86,51.86
+PDX,"Portland, OR",4359,689.0,15.81,58.05
+RNO,"Reno, NV",1658,260.0,15.68,48.64
+SBA,"Santa Barbara, CA",551,85.0,15.43,63.25
+DAL,"Dallas, TX",5456,841.0,15.41,50.57
+LAX,"Los Angeles, CA",14940,2301.0,15.4,70.9
+SFO,"San Francisco, CA",10732,1651.0,15.38,67.15
+PSC,"Pasco/Kennewick/Richland, WA",514,79.0,15.37,59.7
+SNA,"Santa Ana, CA",3388,512.0,15.11,61.05
+ONT,"Ontario, CA",1875,274.0,14.61,54.47
+SLC,"Salt Lake City, UT",9260,1327.0,14.33,69.67
+BWI,"Baltimore, MD",6767,964.0,14.25,55.91
+PHX,"Phoenix, AZ",15760,2231.0,14.16,73.97
+BUR,"Burbank, CA",2272,320.0,14.08,56.78
+SMF,"Sacramento, CA",4100,575.0,14.02,56.13
+PSP,"Palm Springs, CA",1438,188.0,13.07,54.44
+OAK,"Oakland, CA",2838,330.0,11.63,49.83
+LGB,"Long Beach, CA",1329,154.0,11.59,53.25
+HNL,"Honolulu, HI",5045,581.0,11.52,90.5
+SJC,"San Jose, CA",3650,411.0,11.26,57.46
+ITO,"Hilo, HI",556,53.0,9.53,74.57
+LIH,"Lihue, HI",1289,119.0,9.23,67.87
+KOA,"Kona, HI",1354,119.0,8.79,71.89
+OGG,"Kahului, HI",2189,174.0,7.95,84.1

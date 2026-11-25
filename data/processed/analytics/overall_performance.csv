@@ -1,0 +1,2 @@
+total_flights,start_date,end_date,carriers,evaluated_arrivals,delayed_arrivals,cancellations,diversions,avg_signed_arrival_delay
+539747,2025-01-01,2025-01-31,14,522269,98130.0,16312.0,1166.0,3.76
