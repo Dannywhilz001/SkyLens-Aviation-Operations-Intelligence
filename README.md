@@ -313,7 +313,6 @@ Independent validation scripts compare exported analytical results against separ
 # 3. Repository Structure
 
 ```text
-```text
 SkyLens-Aviation-Operations-Intelligence/
 │
 ├── SkyLens_Aviation_Operations_Intelligence.pbix
@@ -345,9 +344,8 @@ SkyLens-Aviation-Operations-Intelligence/
     ├── Validation scripts
     └── Investigation scripts
 ```
-The repository contains the analytical application, supporting data-processing scripts, documentation and dashboard assets. Large raw source files and generated database files are excluded from version control.
 
----
+The repository contains the Power BI dashboard, interactive analytical application, supporting data-processing scripts, documentation and processed analytical outputs. Large raw source files and generated database files are excluded from version control.
 
 # 4. Conclusion
 
